@@ -7,7 +7,6 @@ header{
     padding: 0%;
 }
 header h1{
-    text-decoration: underline;
      color: black;  
      display: flex;
      justify-content: center; 
